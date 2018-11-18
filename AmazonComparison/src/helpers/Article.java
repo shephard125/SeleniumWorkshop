@@ -7,7 +7,6 @@ import java.util.Locale;
 
 /**
  * Stores information from Articles in the <class>pages.amazonTest.ResultsPage</class>
- * @author omar.navarro
  *
  */
 public class Article {

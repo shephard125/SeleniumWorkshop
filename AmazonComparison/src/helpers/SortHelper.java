@@ -7,8 +7,6 @@ import java.util.Comparator;
 
 /**
  * Aids in sorting the articles.
- * @author omar.navarro
- *
  */
 public class SortHelper {
 

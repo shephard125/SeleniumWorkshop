@@ -17,7 +17,6 @@ import helpers.Properties;
 /**
  * Contains all the elements needed to automate the interaction with the amazon filter page
  * (Actually the navigation bar).
- * @author omar.navarro
  */
 public class FilterPage {
 	

@@ -14,7 +14,6 @@ import helpers.Locators;
 
 /**
  * Contains all the elements needed to automate the interaction with the amazon home page.
- * @author omar.navarro
  */
 public class HomePage {
 	
