@@ -1,0 +1,10 @@
+com\library\assets\dao\LibraryDAO.class
+com\library\assets\controller\LibraryController.class
+com\library\assets\model\Guest.class
+com\library\assets\configuration\LibraryInitializer.class
+com\library\assets\service\LibraryService.class
+com\library\assets\service\LibraryServiceImpl.class
+com\library\assets\dao\LibraryDAOService.class
+com\library\assets\configuration\LibraryConfiguration.class
+com\library\assets\dao\LibraryDAO$1.class
+com\library\assets\dao\LibraryDAO$UserMapper.class
